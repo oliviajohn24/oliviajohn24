@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **oliviajohn24/oliviajohn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Intro
 I am a current second-year student studying Data Analytics at the [University of St. Thomas](http://stthomas.edu). I enjoy studying ideas about energy (especially renewable energy), education, and video games!
